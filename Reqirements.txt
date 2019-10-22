@@ -1,0 +1,12 @@
+Type of midterm: Group
+this can be where you have the individuals of the group collaberate and divide tasks and submit them to a git repository.
+This helps test the ability of communication between the members and how they work with others. You can also test individually based on specific tasks in the midterm.
+
+Material covered on exam: Lecture slides and assignments involved with git
+Questions include: multiple choice, storyboard, and use of repository.
+
+When exam begins: 10/24
+When exam ends: 11/5
+
+This gives everyone plently of time to do the midterm while not giving too much time to waste and forgot about the midterm.
+
